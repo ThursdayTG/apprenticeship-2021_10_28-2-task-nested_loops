@@ -1,9 +1,8 @@
 # apprenticeship-2021_11_06-task-nested_loops
 
-On a one week long break, I planned to do way more programming than just continuing to work on these tasks we were given, but oh well.
-Technically there's also a folder of work that I had done at 2021-11-05, however it was pretty much only cleaning up the folder and refining the structure of the files without actually changing the functions or solutions.
+The different `.cpp` files are all one single solution, each for a different problem. Because of both bad versioning and poor file management, all of the older versions are lost.
 
-For a change, you can completely ignore the versioning (alpha, bravo, charlie, delta). These are all the newest versions of all separate solutions.
+Although I found my performance to be quite satisfactory for all but one of the given problems at the time, I may return to these problems for fun to see if I can improve on these works. However, this is rather unlikely.
 
 ---
 
